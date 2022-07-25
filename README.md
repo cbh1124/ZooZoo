@@ -1,6 +1,9 @@
 # ZooZoo Club  
 경기도 유기동물, 분양동물 커뮤니티 사이트
 
+##작동영상 
+https://www.youtube.com/watch?v=wMLMbODqCtU&feature=youtu.be
+
 ## 1. 개요 
 ### 1.1 프로젝트 목적
 
